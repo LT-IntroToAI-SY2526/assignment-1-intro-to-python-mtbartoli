@@ -1,5 +1,5 @@
 # Assignment 1: AI-Generated Python Problems
-# Name: [Your Name Here]
+# Name: [Maddox Bartoli]
 
 """
 AI-Generated Problem Set
@@ -19,8 +19,9 @@ Remember: The goal is to LEARN, not just get working code!
 # =============================================================================
 
 """
-MY ORIGINAL AI PROMPT:
-[Paste the prompt you used to generate your problem set here]
+MY ORIGINAL AI PROMPT:"My classmate is having trouble understanding for-loops in Python. 
+This is my code:(provide code) can you explain this to them as if they are just now learning about loops.
+Specifically, explain the purpose for loops and how the range function works and why you go from 1 to 4 to print out 1-3."
 
 Example: "I'm learning Python basics in a high school programming class. 
 I have some experience with Java. Can you create 5-7 practice problems that cover..."

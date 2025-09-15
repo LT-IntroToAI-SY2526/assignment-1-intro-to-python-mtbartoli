@@ -57,7 +57,12 @@ def every_other(lst: List[T]) -> List[T]:
     Returns:
         a list of every of other item in the original list starting with the first
     """
-    raise NotImplementedError("every_other")
+    return lst[::2]
+    result = []
+    for index in range(len(lst)):
+        if index % 2 == 0:
+            result append (lst[index])
+    
 
 
 def sum_list(lst: List[int]) -> int:
@@ -82,7 +87,11 @@ def mean(lst: List[int]) -> float:
     Returns:
         the mean of the passed in list
     """
-    raise NotImplementedError("mean")
+    return sum(lst)
+    total = 0
+    for element in lst:
+        total += element
+    return total
 
 
 def median(lst: List[int]) -> float:
