@@ -19,7 +19,8 @@ After completing your problems, reflect on:
 1. **What was your initial experience with Python?** How did it compare to other programming languages you've used?
 I first started to try and learn python in the summer aftermy freshman year becasue I wanted to make a website and needed to to make a trading algerithem but ended up droping it becasue I didnt comite to the algerithem and I was learning java when shophmore year started.
 2. **How did you use AI effectively?** Give specific examples of good prompts you used and what you learned from the responses.
-
+I asked about for loops and used examples and details to ask for a curated answer.
 3. **What concepts were most challenging?** How did AI help you understand them?
-
+writing the duck duck goose coding agerithem due to finding what effected what values.
 4. **What did you learn about collaborating with AI?** What strategies worked best for learning rather than just getting answers?
+It really can go in depth for each asspect of a quetion and can teach you something as hard to explain as python code.
