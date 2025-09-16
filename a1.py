@@ -87,19 +87,19 @@ print(f"is_even(4): {is_even(4)}")  # Should print True
 print(f"is_even(7): {is_even(7)}")  # Should print False
 """
 
-print("Testing Problem 1:")
-# Add your tests here
-
-print("\nTesting Problem 2:")
-# Add your tests here
-
-print("\nTesting Problem 3:")
-# Add your tests here
-
-print("\nTesting Problem 4:")
-# Add your tests here
-
-print("\nTesting Problem 5:")
-# Add your tests here
+def calculate_grade(score):
+    """
+    
+    """
+    if score >= 90:
+        return "A"
+    if score >= 80:
+        return "B"
+    if score >= 70:
+        return "C"
+    if score >= 60:
+        return "D"
+    else:
+        return "F"
 
 
